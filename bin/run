@@ -2,7 +2,7 @@
 require 'bundler/setup'
 require 'dotenv'
 Dotenv.load
-require File.expand_path("../../lib/bot.rb", __FILE__)
+require File.expand_path('../../lib/bot.rb', __FILE__)
 
 
 
