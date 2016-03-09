@@ -21,4 +21,4 @@ client.on :message do |data|
   end
 end
 
-
+client.start
